@@ -19,7 +19,7 @@ CSS
 - Painting
 - Making Websites
 
-Also check out some of my [2021 goals!](https://github.com/c1phan/c1phan.github.io/blob/main/README.md#favorite-programming-language-java)
+Also check out some of my [2021 goals!](https://github.com/c1phan/c1phan.github.io/blob/main/README.md#some-goals-i-want-to-accomplish-in-2021)
 
 
 ###### [Here's a fun fact about me!](/FUN_FACT.md)
